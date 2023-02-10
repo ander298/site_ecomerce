@@ -31,3 +31,6 @@ _criação do __front__, checkout_
 
 contribuidor principal:https://github.com/ander298
 
+[![logo do Python](img/Python.png)](https://github.com/ander298)
+
+
