@@ -41,3 +41,10 @@ fnction soma(a, b){
     return a + b;
 }
 '''
+
+#### lista de tarefas v
+- [x] Área de menbros 
+- [] Integração com outros pagamentos
+- [] Sistema de bonus
+- [x] CSS do radape
+
