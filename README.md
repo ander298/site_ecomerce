@@ -34,3 +34,10 @@ contribuidor principal:https://github.com/ander298
 [![logo do Python](img/Python.png)](https://github.com/ander298)
 
 
+#### códico da função 
+
+'''javascript
+fnction soma(a, b){
+    return a + b;
+}
+'''
