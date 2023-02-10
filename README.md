@@ -16,8 +16,8 @@ _criação do __front__, checkout_
 ##### funcionalidades a desenvolver:
 1. Área de menbros 
     1. login diferente
-    2. desconto especial paara grupos de clientes
-    3. css diferente para grupos de cliente com fidelidade
+    2. desconto especial para grupos de clientes
+    3. CSS diferente para grupos de cliente com fidelidade
 2. Integração com outros pagamentos 
 3. Sistemas de bonus primeira compra
 
