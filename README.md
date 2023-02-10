@@ -22,4 +22,7 @@ _criação do __front__, checkout_
 3. Sistemas de bonus primeira compra
 
 #### Imagem local 
-![Logo do PHP](https://pt.wikipedia.org/wiki/PHP#/media/Ficheiro:PHP-logo.svg)
+
+![Logo do php](img/php.png)
+
+
