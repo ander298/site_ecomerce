@@ -1,9 +1,9 @@
-# site_ecomerce
-inicio de criação do site da empresa x
+# site_ecomerce:
+inicio de criação do **site** da *empresa* x
 
-## funcionalidades
-criação do front, checkout
+## funcionalidades:
+_criação do __front__, checkout_
 
-### melhorias do projeto
-atualizar o banco de dados
+### melhorias do projeto:
+*atualizar o **banco** de dados*
 
