@@ -42,7 +42,7 @@ fnction soma(a, b){
 }
 '''
 
-#### lista de tarefas 
+#### lista de tarefas
 - [x] Área de menbros 
 - [] Integração com outros pagamentos
 - [] Sistema de bonus
